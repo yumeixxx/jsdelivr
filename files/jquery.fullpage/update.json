@@ -5,7 +5,7 @@
   "files": {
     "include": [
       "./jquery.fullpage.min.js",
-      "./jquery.fullpage.css",
+      "./jquery.fullpage.min.css",
       "./vendors/*.min.js"
     ]
   }
